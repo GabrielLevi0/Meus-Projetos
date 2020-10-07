@@ -1,2 +1,2 @@
 # Curso Git
- Curso em video de Git
+Primeiro repositório de git
